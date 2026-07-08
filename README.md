@@ -1,2 +1,44 @@
-# ai-resume-toolkit
-AI Resume Toolkit - 10 industry resume templates + AI guide + 100 ChatGPT prompts. ¥49 one-time.
+# 🤖 AI Resume Toolkit — ¥49
+
+> **10套行业简历模板 + AI求职指南 + 100条ChatGPT提示词，一次购买永久更新**
+
+[![Buy Now](https://img.shields.io/badge/🎯-立即购买_¥49-FF6B6B?style=for-the-badge)](https://3489c36250764f429094f089efe4f649.app.codebuddy.work)
+
+---
+
+## 📦 产品内容
+
+| 模块 | 数量 | 说明 |
+|------|------|------|
+| 📝 行业简历模板 | 10套 | 软件工程师·产品经理·数据科学·金融·设计·运营·HR·咨询·销售·市场 |
+| 📧 求职信模板 | 10封 | 匹配各行业的中英文Cover Letter |
+| 🤖 AI优化指南 | 1份 | 如何用ChatGPT/DeepSeek优化简历 |
+| ✅ 面试清单 | 1份 | 面试准备Checklist |
+| 💡 ChatGPT提示词 | 100条 | 简历优化·面试模拟·薪资谈判全覆盖 |
+
+---
+
+## 🛒 购买流程
+
+1. 扫码支付 **¥49**
+2. 添加微信 **18244213857**
+3. 发送付款截图 → 5分钟内收到ZIP下载链接
+
+---
+
+## ✨ 为什么选这套？
+
+- ✅ **不是通用模板** — 每个行业单独定制
+- ✅ **AI深度优化** — 附赠100条提示词，用AI无限迭代
+- ✅ **面试官视角** — 基于真实面试反馈优化
+- ✅ **永久更新** — 购买后所有更新免费获取
+
+---
+
+## 📱 立即购买
+
+👉 [https://3489c36250764f429094f089efe4f649.app.codebuddy.work](https://3489c36250764f429094f089efe4f649.app.codebuddy.work)
+
+---
+
+**Made with ❤️ by [@1036007003-wq](https://github.com/1036007003-wq)**
