@@ -1,12 +1,11 @@
-# 🤖 AI Resume Toolkit — AI简历工具箱
+# 🤖 AI Resume Toolkit — 免费在线简历生成器 + AI简历工具箱
 
-> **10套行业简历模板 + 100条ChatGPT提示词 + 求职信 + 面试指南**
-> 
-> 用AI让面试通过率提升300% | ¥49 一次购买永久更新
-
-[![Buy Now](https://img.shields.io/badge/🎯-立即购买_¥49-FF6B6B?style=for-the-badge)](https://3489c36250764f429094f089efe4f649.app.codebuddy.work)
+> **🆕 免费在线简历生成器已上线！** → [立即使用](https://d721859602d04a82b84f7a3391a3c73d.app.codebuddy.work)
+>
+> 填写信息 → 实时预览 → 一键导出PDF。完全免费，无需注册。
 
 ---
+
 
 ## ✨ 包含什么？
 
